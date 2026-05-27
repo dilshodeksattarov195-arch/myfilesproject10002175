@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrncrypt",
+        "uuid": 6059550,
+        "checksum": "pqvzip"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
